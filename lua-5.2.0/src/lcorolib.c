@@ -1,6 +1,7 @@
 /*
 ** $Id: lcorolib.c,v 1.3 2011/08/23 17:24:34 roberto Exp $
 ** Coroutine Library
+** 协程库
 ** See Copyright Notice in lua.h
 */
 

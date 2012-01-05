@@ -1,6 +1,7 @@
 /*
 ** $Id: lbaselib.c,v 1.273 2011/11/30 13:03:24 roberto Exp $
 ** Basic library
+** 基础库
 ** See Copyright Notice in lua.h
 */
 

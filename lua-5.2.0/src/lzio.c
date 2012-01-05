@@ -1,6 +1,7 @@
 /*
 ** $Id: lzio.c,v 1.34 2011/07/15 12:35:32 roberto Exp $
 ** a generic input stream interface
+** 一个通用的输入流接口
 ** See Copyright Notice in lua.h
 */
 

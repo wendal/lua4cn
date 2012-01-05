@@ -1,6 +1,7 @@
 /*
 ** $Id: lapi.h,v 2.7 2009/11/27 15:37:59 roberto Exp $
 ** Auxiliary functions from Lua API
+** LuaAPI的辅助函数
 ** See Copyright Notice in lua.h
 */
 

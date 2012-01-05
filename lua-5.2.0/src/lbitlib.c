@@ -1,6 +1,7 @@
 /*
 ** $Id: lbitlib.c,v 1.16 2011/06/20 16:35:23 roberto Exp $
 ** Standard library for bitwise operations
+** 位操作的标准库
 ** See Copyright Notice in lua.h
 */
 

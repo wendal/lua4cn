@@ -1,6 +1,7 @@
 /*
 ** $Id: loslib.c,v 1.38 2011/11/30 12:35:05 roberto Exp $
 ** Standard Operating System library
+** 标准操作系统库
 ** See Copyright Notice in lua.h
 */
 

@@ -1,6 +1,7 @@
 /*
 ** $Id: lstring.c,v 2.19 2011/05/03 16:01:57 roberto Exp $
 ** String table (keeps all strings handled by Lua)
+** 字符串表,持有Lua管理的所有字符串
 ** See Copyright Notice in lua.h
 */
 

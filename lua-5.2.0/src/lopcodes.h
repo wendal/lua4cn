@@ -1,6 +1,7 @@
 /*
 ** $Id: lopcodes.h,v 1.142 2011/07/15 12:50:29 roberto Exp $
 ** Opcodes for Lua virtual machine
+** Lua虚拟机的操作码
 ** See Copyright Notice in lua.h
 */
 
